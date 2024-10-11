@@ -1,0 +1,23 @@
+body {
+    color: aliceblue;
+    column-rule-color: rgb(30, 209, 155);
+    background-color: black;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+div {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 5px;
+    padding: 5px;
+    flex-wrap: wrap;
+}
+
+img:hover {
+    height: 700px;
+    width: 700px;
+}
