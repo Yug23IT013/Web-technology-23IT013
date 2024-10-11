@@ -1,0 +1,32 @@
+body,
+html {
+    height: 100%;
+}
+
+.parallax {
+    background-image: url('gratisography-cyber-kitty.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: static;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2 {
+    background-image:
+        url('https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAft er.jpg');
+ height: 100%;
+            background-attachment: fixed;
+            background-position: static;
+            background-repeat: no-repeat;
+            background-size: cover;
+    }
+
+    .parallax3 {
+        background-image: url('https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630');
+ height: 100%;
+            background-attachment: fixed;
+            background-position: static;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
