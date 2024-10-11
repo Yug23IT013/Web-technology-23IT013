@@ -1,2 +1,2 @@
-web-technology-23IT013
-PRACTICALS
+23IT013 Yug Buha 
+Web Technology practical
