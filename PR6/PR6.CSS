@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    border: 0;
+    text-align: center;
+}
+
+.Margin {
+    background-color: aqua;
+    align-content: center;
+    border: 1px solid black;
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+
+.border {
+    padding: 20px;
+    border: 1px solid black;
+    background-color: beige;
+    align-content: center;
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+
+.padding {
+    padding: 20px;
+    border: 1px solid black;
+    background-color: red;
+    align-content: center;
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+
+.content {
+    padding: 20px;
+    border: 1px solid black;
+    background-color: brown;
+    align-content: center;
+
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
