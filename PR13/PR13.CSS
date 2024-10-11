@@ -1,0 +1,125 @@
+body {
+    background-color: green;
+    font-family: 'Arial', sans-serif;
+}
+
+h2.card-title,
+h3 {
+    color: #333;
+}
+
+.table {
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+    text-align: center;
+    padding: 15px;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f2f2f2;
+}
+
+.table-hover tbody tr:hover {
+    body {
+        background-color: #f7f9fc;
+        font-family: 'Arial', sans-serif;
+    }
+
+    .container {
+        margin-top: 50px;
+        background-color: #ffffff;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    }
+
+    h2.card-title,
+    h3 {
+        color: #333;
+    }
+
+    .table {
+        margin-top: 20px;
+        overflow: hidden;
+        border: 1px solid black;
+    }
+
+    .table th,
+    .table td {
+        vertical-align: middle;
+        text-align: center;
+        padding: 15px;
+    }
+
+    .form-control {
+        margin-bottom: 15px;
+    }
+
+    .card {
+        color: #ffffff;
+    }
+
+    .card-body {
+        padding: 25px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+    }
+
+    .btn-primary:hover,
+    .btn-danger:hover {
+        opacity: 0.9;
+    }
+
+    .form-check-label {
+        margin-left: 5px;
+    }
+
+    .table-dark {
+        background-color: #343a40;
+    }
+
+    .table-dark th {
+        color: #ffffff;
+        font-weight: bold;
+    }
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.card-body {
+    padding: 25px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-danger {
+    background-color: #0bd648;
+    border: none;
+}
+
+.btn-primary:hover,
+.btn-danger:hover {
+    opacity: 0.9;
+}
+
+.form-check-label {
+    margin-left: 5px;
+}
+
+.table-dark th {
+    color: #ffffff;
+    font-weight: bold;
+}
